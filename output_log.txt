@@ -1,0 +1,5 @@
+[Info] Script init
+[Info] no existing session
+[Info] start to export the CA file
+[Info] exporting start, estimation timing 100s
+[Info] Export Successfully!
