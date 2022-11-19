@@ -79,5 +79,5 @@ if __name__ == "__main__":
 
 
     # destroy the session
-    print(ise_ssh_session.remote_terminal.recv(65535).decode())
+    # print(ise_ssh_session.remote_terminal.recv(65535).decode())
     ise_ssh_session.ssh_session.close()
